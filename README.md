@@ -75,4 +75,5 @@ ex)   curl -X POST ‘211.184.187.131:5000/find’ -d “time=20210127” -v
   ○ KT 클라우드에서는 방화벽 설정에서 해당 포트를 열어주면 된다.
   
   
-  
+  ![벡엔드 걀과](https://user-images.githubusercontent.com/85105917/136183419-6f2f9740-88e6-4985-8e44-ffeae019ae76.JPG)
+
